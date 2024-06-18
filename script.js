@@ -1,6 +1,6 @@
-const APP_ID = "51a465885ed04737910287b1a72ed65a"
-const TOKEN = "007eJxTYOA2vvXi1JasBxu9WKQjTLZ1P+SSfvPjVlAqy/cXOV2MD2QUGEwNE03MTC0sTFNTDEzMjc0tDQ2MLMyTDBPNjVJTzEwTBeanpTUEMjJY+mqwMDJAIIjPzhBcUpSamGvEwAAAgY8ewQ=="
-const CHANNEL = "Stream2"
+const APP_ID = "671a80560ce142d5bcbf16fad2da82ef"
+const TOKEN = "007eJxTYLjz+kMFR92xbIv5jtIvHI6uUdPYwv7swP/ry/UWcqtdaBRSYDA1TDQxM7WwME1NMTAxNza3NDQwsjBPMkw0N0pNMTNN3PGjMK0hkJFBSbmPlZEBAkF8dobgkCBXR18jBgYAyNsflA=="
+const CHANNEL = "STREAM2"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
 
